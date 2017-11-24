@@ -16,7 +16,7 @@ class CleanCommand(Command):
         os.system('rm -vrf ./build ./dist ./*.pyc ./*.tgz ./*.egg-info')
 
 
-setup(name='Hydrophis',
+setup(name='hydrophis',
 
       version='1.0.0',
 
