@@ -1,0 +1,10 @@
+.DS_Store
+.DS_Store?
+*.pyc
+*.iml
+.idea/
+Chrome-proxy-helper/
+mac_webdriver/
+chrome-proxy-extensions/
+linux_webdriver/
+*.txt
