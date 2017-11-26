@@ -18,7 +18,7 @@ class CleanCommand(Command):
 
 setup(name='hydrophis',
 
-      version='1.0.0',
+      version='1.0.1',
 
       url='git@github.com:dpcrarchydrophis/hydrophis.git',
 
