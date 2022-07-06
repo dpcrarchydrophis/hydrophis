@@ -38,7 +38,7 @@ setup(name='hydrophis',
 
       install_requires=['nose', 'Twisted==17.1.0', 'beautifulsoup4', 'futures==3.1.1',
                         'gevent', 'requests==2.13.0', 'pybloom', 'boto==2.47.0', 'incremental==16.10.1',
-                        'lxml==4.0.0', 'boto>=2.47.0'],
+                        'lxml==4.9.1', 'boto>=2.47.0'],
 
       test_suite='nose.collector',
       cmdclass={
